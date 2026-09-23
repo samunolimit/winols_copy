@@ -1,0 +1,6 @@
+{
+  "name": "WinOLS Architecture & ECU Engine Explorer",
+  "description": "Interactive deep-dive into WinOLS software architecture, ECU binary map heuristics, 2D/3D visualization, A2L/DAMOS parser, and checksum engines in Mizo and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
